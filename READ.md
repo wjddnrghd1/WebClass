@@ -6,6 +6,8 @@ Next Semester Python
 
 Artificial Intelligence
 
-##Big Data
+Python
 
-60175080 홍정욱
+MATLAB
+
+##Big Data
