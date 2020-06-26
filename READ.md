@@ -2,4 +2,4 @@ Hello World
 
 JAVASCRIPT Course
 
-Hello
+Next Semester Python
